@@ -1,3 +1,6 @@
+START HERE FOR MY NEXT THOR PROJECT!
+
+
 # RearrangeBooks
 
 Rearranges multiple versions of ebooks (or really any set of similarly
